@@ -1,6 +1,6 @@
 # PROPAGATION_BACTERIENNE
 
-https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg
+![image](https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg)
 
 Membres du groupe :
 
