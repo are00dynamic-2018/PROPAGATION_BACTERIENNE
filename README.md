@@ -13,7 +13,7 @@ Fabien Benthami     fabien.benthami@yahoo.fr
 
 Nadir Ait Kheddache     nadir.aitkheddache@gmail.com
 
-Idriss Alaoui Isouiman      idrissalaouisoulimani@gmail.com
+Idriss Alaoui Soulimani      idrissalaouisoulimani@gmail.com
 
 
 
@@ -25,5 +25,7 @@ Autrement dit comprendre l’efficacité des anticorps sur les bactéries en fon
 
 
 ## Lien du Google Docs : ##
+
+<https://docs.google.com/document/d/1I5axaokHjcQKSrqvp-DZnSG8qAAc6KvY1ZnKoHlSVAg/edit?usp=sharing>
 
 <https://docs.google.com/document/d/1I5axaokHjcQKSrqvp-DZnSG8qAAc6KvY1ZnKoHlSVAg/edit?usp=sharing>
