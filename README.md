@@ -25,7 +25,7 @@ idrissalaouisoulimani@gmail.com
 ## Description du projet : ##
 
 L'objectif est de comprendre l'évolution système immunitaire simplifié.
-Autrement dit comprendre l’efficacité des anticorps sur les bactéries en fonctions de différents paramètres.
+Autrement dit comprendre l’efficacité des globules blanc sur les bactéries en fonctions de différents paramètres.
 
 
 
