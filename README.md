@@ -5,19 +5,19 @@
 
 ## Membres du groupe : ##
 
-Alma Draeger. 
+Alma Draeger.  
 alma-draeger@live.fr
 
-Alexandre Janin. 
+Alexandre Janin.  
 alexandrejanin92@gmail.com
 
-Fabien Benthami. 
+Fabien Benthami.  
 fabien.benthami@yahoo.fr
 
-Nadir Ait Kheddache. 
+Nadir Ait Kheddache.  
 nadir.aitkheddache@gmail.com
 
-Idriss Alaoui Soulimani. 
+Idriss Alaoui Soulimani.  
 idrissalaouisoulimani@gmail.com
 
 
