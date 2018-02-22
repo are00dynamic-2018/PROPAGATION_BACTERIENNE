@@ -27,3 +27,8 @@ Autrement dit comprendre l’efficacité des anticorps sur les bactéries en fon
 ## Lien du Google Docs : ##
 
 <https://docs.google.com/document/d/1I5axaokHjcQKSrqvp-DZnSG8qAAc6KvY1ZnKoHlSVAg/edit?usp=sharing>
+
+
+## Compte rendu : ##
+
+[Semaine 1 :](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine1)
