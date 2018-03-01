@@ -53,6 +53,7 @@ Voici les différentes règles survie des organisme (Nutriments, Agression) poss
 + Si une bactérie est entourée uniquement d'autres bactéries : décès de la bactérie.
 + Si un nutriment est à proximité d'une bactérie : le nutriment devient une bactérie.
 + Si un globule blanc est entourée de k (variable) bactérie(s) : décès du globule blanc.
++ Si une cellule est vide : probabilité p de se transformer en un nutriment.
 
   
   
