@@ -21,4 +21,4 @@ if (c == 1): #Bactérie
   
 Lors de la création de cette fonction, suite à une erreur *"list out of the range"*, nous avons décidé de mettre de coté l'option "infini" pour y revenir plus tard.
   
-Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à l'état suivant. Et le tout grace à une super bouton *click me*, une magnifique trouvaille de Alexandre.
+Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à l'état suivant. Et le tout grace à une super bouton *Nest*, une magnifique trouvaille de Alexandre.
