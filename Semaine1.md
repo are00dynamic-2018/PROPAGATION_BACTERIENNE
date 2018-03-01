@@ -34,7 +34,6 @@ n - n - - - - n G
 G B n - - - n n n 
 
 - G n - - B n - n
-
 ``` 
   
 Nous avons pas mal avancé dans ce projet malgré le temps considérablement long que nous avons mis à nous décider (certains d'entre-nous voulaient absolument s'amuser à compter des voitures au bord de l'autoroute, ne me demandez pas pourquoi...). Enfin bref, nous sommes très heureux d'avoir commencé ce projet ensemble (faut dire qu'on a la meilleure team, pas de chance pour les autres) et nous essaierons de vous tenir informer le plus régulièrement possible.
