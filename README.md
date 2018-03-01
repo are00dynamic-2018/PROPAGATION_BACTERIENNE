@@ -40,12 +40,13 @@ Nous simmulons notre modélisation dans une matrice. Les nombres de cette matric
 + Nutriment (N) => 3
   
   
-Pour passer d'une étape à une autre on annalyse le voisignage d'un nombre choisit aléatoirement. Ce voisignage sera une “case” de 3*3, soit les 8 nombres entourant le nombre choisit.
   
+Pour passer d'une étape à une autre on annalyse le voisignage d'un nombre choisit aléatoirement. Ce voisignage sera une “case” de 3*3, soit les 8 nombres entourant le nombre choisit.
 Que faire si on est aux extrémités ? On observe alors deux types de cas pour le voisinage :
 * Soit boite pétrie : milieu fini - ne pas prendre les voisins hors de la matrice.
 * Soit corps humain : milieu infini (sphère) - au extrémité prendre les voisins. 
-
+  
+  
   
 Voici les différentes règles survie des organisme (Nutriments, Agression) possibles :
 + Si une bactérie est entourée de m (variable) globule(s) blanc(s) : décès de la bactérie.
