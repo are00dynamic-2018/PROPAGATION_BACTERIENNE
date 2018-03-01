@@ -48,13 +48,17 @@ Que faire si on est aux extrémités ? On observe alors deux types de cas pour l
   
   
 Voici les différentes règles survie des organisme (Nutriments, Agression) possibles :
-+ Si une bactérie est entourée de m (variable) globule(s) blanc(s) : décès de la bactérie.
++ Si une cellule est vide : probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
+ 
++ Si une bactérie est entourée d'un certain nombre (variable : nb_gb_nécessaires) globule(s) blanc(s) : décès de la bactérie.
 + Si une bactérie est sans nutriments à proximité : décès de la bactérie.
-+ Si une bactérie est entourée uniquement d'autres bactéries : décès de la bactérie.
-+ Si un nutriment est à proximité d'une bactérie : le nutriment devient une bactérie.
-+ Si un globule blanc est entourée de k (variable) bactérie(s) : décès du globule blanc.
-+ Si une cellule est vide : probabilité p de se transformer en un nutriment.
++ Si une bactérie est entourée d'un certain nombre de bactéries (variable : nb_b_surpop) : décès de la bactérie.
 
++ Si un globule blanc est entourée d'un certain nombre (variable : nb_b_nécessaires) bactérie(s) : décès du globule blanc.
++ A chaque on fait apparaitre un nombre (nb_gb_apparition) de globules blancs aléatoirement sur une case vide. 
++ Probabilité (proba_apoptose) que les globules blanc meurt : apparition d'une case vide
+
++ Si un nutriment est à proximité d'une bactérie : le nutriment devient une bactérie.
   
   
 ## Lien du Google Docs : ##
