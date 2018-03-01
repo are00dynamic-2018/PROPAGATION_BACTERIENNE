@@ -21,6 +21,6 @@ Lors de la création de cette fonction, suite à une erreur *"list out of the ra
   
 Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à l'état suivant. Et le tout grace à un super bouton *Next step*, une magnifique trouvaille de Alexandre.
   
-Le projet avance à une vitesse hallucinante, on est déjà en mesure d'afficher notre matrice après un nombre (variable : *steps*) d'étapes. 
+Le projet avance à une vitesse hallucinante, on est déjà en mesure d'afficher notre matrice après un nombre (variable : *steps*) d'étapes et d'afficher un tableau qui renvoie le nombre de globules blancs et de bactéries après *steps* étapes.
 
 Alma.
