@@ -30,9 +30,9 @@ Autrement dit comprendre l’efficacité des globules blanc sur les bactéries e
   
   
 ## Règle de la modélisation : ##  
-##### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les Les lymphocyte NK (Natural Killer). Ce sont des Globules blanc qui développent une cytotoxicité pouvant lyser les bactéries.
+##### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les lymphocyte NK (Natural Killer). Ce sont des Globules blanc qui développent une cytotoxicité pouvant lyser les bactéries.
   
-Nous simmulons notre modélisation dans une matrice. Les nombres de cette matrice peuvent prendre les valeurs suivantes :
+Nous simulons notre modélisation dans une matrice. Les cellules de cette matrice peuvent prendre les valeurs suivantes :
 + Globule Blanc (GB) => 2
 + Bactérie (B) => 1
 + Le vide (-) => 0
@@ -40,7 +40,7 @@ Nous simmulons notre modélisation dans une matrice. Les nombres de cette matric
   
   
   
-Pour passer d'une étape à une autre on annalyse le voisignage d'un nombre choisit aléatoirement. Ce voisignage sera une “case” de 3*3, soit les 8 nombres entourant le nombre choisit.
+Pour passer d'une étape à une autre on analyse le voisinage de chaque cellule de la matrice. Ce voisignage sera une “mini-matrice” de 3*3, soit les 8 nombres entourant d'une cellule.
 Que faire si on est aux extrémités ? On observe alors deux types de cas pour le voisinage :
 * Soit boite pétrie : milieu fini - ne pas prendre les voisins hors de la matrice.
 * Soit corps humain : milieu infini (sphère) - au extrémité prendre les voisins. 
