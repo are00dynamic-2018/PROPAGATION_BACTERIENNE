@@ -11,8 +11,6 @@ Plus concrétement, nous avons continué le travail avec pour objectif d'avancer
 if (c == 1): #Bactérie
         if(globules >= nb_gb_necessaires): #Les GB tuent la bactéries
             return 0
-        elif(nutriments == 0): #La bactérie meurt de "faim"
-            return 0
         elif(bacteries >= nb_b_surpop): #La bactérie meurt (surpopulation)
             return 0
         else: #La bactérie survie
