@@ -30,7 +30,7 @@ Autrement dit comprendre l’efficacité des globules blanc sur les bactéries e
   
   
 ## Règles de la modélisation : ##  
-##### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les lymphocyte NK (Natural Killer). Ce sont des Globules blanc qui développent une cytotoxicité pouvant lyser les bactéries.
+#### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les lymphocyte NK (Natural Killer). Ce sont des Globules blanc qui développent une cytotoxicité pouvant lyser les bactéries.
   
 Nous simulons notre modélisation dans une matrice. Les cellules de cette matrice peuvent prendre les valeurs suivantes :
 + Globule Blanc (GB) => 2
