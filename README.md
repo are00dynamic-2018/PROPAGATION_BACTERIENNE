@@ -61,7 +61,7 @@ Voici les différentes règles survie des organisme (Nutriments, Agression) poss
 + Si un nutriment est à proximité d'une bactérie : le nutriment devient une bactérie.
   
   
-## Lien du Google Docs : ##
+## Lien du Google Docs pour les membres du groupe : ##
 
 <https://docs.google.com/document/d/1I5axaokHjcQKSrqvp-DZnSG8qAAc6KvY1ZnKoHlSVAg/edit?usp=sharing>
   
