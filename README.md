@@ -65,3 +65,4 @@ Voici les différentes règles survie des organisme (Nutriments, Agression) poss
 ## Compte rendu : ##
 
 [Semaine 1](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine1)
+[Semaine 2](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine2)
