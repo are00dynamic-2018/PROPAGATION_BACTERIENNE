@@ -11,7 +11,7 @@ Cependant, cette entreprise demande pas mal de boulot, parce que malgré la pré
 Heureusement, notre bon ami Idriss est toujours à nos côtés de manière minutieuse et précise pendant ces recherches pour nous faciliter grandement le travail. Franchement, merci à lui.
   
 Dans le même temps, A et A ont d'ores et déjà commencés l'écriture du code permettant la modélisation de cette expérience. Ils travaillent d'arrache pieds pour que cette simulation soit la plus réaliste possible (et on leur fait confiance).
-Voici à quoi ressemble un matrice initialisé aléatoirement :
+Voici à quoi ressemble une matrice initialisée aléatoirement :
 
 ```  
 mat = matrice(9,9)
