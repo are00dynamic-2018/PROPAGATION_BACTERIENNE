@@ -23,7 +23,7 @@ Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à 
   
 Le projet avance à une vitesse hallucinante, on est déjà en mesure d'afficher notre matrice après un nombre (variable : *steps*) d'étapes et d'afficher un tableau qui renvoie le nombre de globules blancs et de bactéries après *steps* étapes.
   
-Un exemple de simulation :
+Un exemple de simulation :  
 ![exemple](download.png)
 
 Alma.
