@@ -52,7 +52,6 @@ Voici les différentes règles survie des organisme (Nutriments, Agression) poss
 + Si une cellule vide est entourée d'une certain nombre (variable : nb_gb_reproduction) de globule(s) blanc(s) : tranformation en un globule blanc 
  
 + Si une bactérie est entourée d'un certain nombre (variable : nb_gb_nécessaires) globule(s) blanc(s) : décès de la bactérie.
-+ Si une bactérie est sans nutriments à proximité : décès de la bactérie.
 + Si une bactérie est entourée d'un certain nombre (variable : nb_b_surpop) de bactérie(s) : décès de la bactérie.
 
 + Si un globule blanc est entourée d'un certain nombre (variable : nb_b_nécessaires) bactérie(s) : décès du globule blanc.
