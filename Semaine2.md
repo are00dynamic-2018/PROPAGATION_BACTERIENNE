@@ -21,4 +21,6 @@ if (c == 1): #Bactérie
   
 Lors de la création de cette fonction, suite à une erreur *"list out of the range"*, nous avons décidé de mettre de coté l'option "infini" pour y revenir plus tard.
   
-Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à l'état suivant. Et le tout grace à une super bouton *Next*, une magnifique trouvaille de Alexandre.
+Nous pouvons maintenant optenir à partir d'une matrice initiale, la matrice à l'état suivant. Et le tout grace à une super bouton *Next step*, une magnifique trouvaille de Alexandre.
+  
+La projet avance à une vistesse halucinante, on est déja en mesure d'afficher notre matrice après un nombre (variable steps) d'étapes. 
