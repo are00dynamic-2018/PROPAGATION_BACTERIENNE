@@ -1,7 +1,7 @@
 
 ## Compte rendu de la semaine 1 ##
 
-Bonjour les amis, aujourd'hui est un grand jour pour nous: c'est le début d'une grande avanture !!!
+Bonjour les amis, aujourd'hui est un grand jour pour nous: c'est le début d'une grande aventure !!!
   
   
 Nous allons étudier ensemble, semaines après semaines, l'évolution d'une population de bactéries dans un milieu cellulaire, excitant non?
