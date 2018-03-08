@@ -69,5 +69,5 @@ idrissalaouisoulimani@gmail.com
 ## Compte rendu : ##
 
 [Semaine 1](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine1)  
-[Semaine 2](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine2)
+[Semaine 2](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine2)  
 [Semaine 3](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine3)
