@@ -11,7 +11,7 @@ Autrement dit comprendre l’efficacité des globules blanc sur les bactéries e
   
   
 ## Règles de la modélisation : ##  
-#### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les lymphocyte NK (Natural Killer). Ce sont des Globules blanc qui développent une cytotoxicité pouvant lyser les bactéries.
+#### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons simplement sur les globules blancs et la bactérie : Escherichia Coli (bactérie de référence).
   
 Nous simulons notre modélisation dans une matrice. Les cellules de cette matrice peuvent prendre les valeurs suivantes :
 + Globule Blanc (GB) => 2
@@ -28,7 +28,7 @@ Que faire si on est aux extrémités ? On observe alors deux types de cas pour l
   
   
   
-Voici les différentes règles survie des organisme (Nutriments, Agression) possibles :
+Voici les différentes règles de survie des organismes :
 + Si une cellule est vide : probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
 + Si une cellule vide est entourée d'une certain nombre (variable : nb_gb_reproduction) de globule(s) blanc(s) : tranformation en un globule blanc 
  
