@@ -1,25 +1,6 @@
 # PROPAGATION_BACTERIENNE
 
-![image](https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg)
-
-
-## Membres du groupe : ##
-
-Alma Draeger.  
-alma-draeger@live.fr
-
-Alexandre Janin.  
-alexandrejanin92@gmail.com
-
-Fabien Benthami.  
-fabien.benthami@yahoo.fr
-
-Nadir Ait Kheddache.  
-nadir.aitkheddache@gmail.com
-
-Idriss Alaoui Soulimani.  
-idrissalaouisoulimani@gmail.com
-  
+![image](https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg)  
   
   
 ## Description du projet : ##
@@ -70,4 +51,5 @@ Voici les différentes règles survie des organisme (Nutriments, Agression) poss
 ## Compte rendu : ##
 
 [Semaine 1](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine1)  
-[Semaine 2](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine2)  
+[Semaine 2](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine2)
+[Semaine 3](https://are00dynamic-2018.github.io/PROPAGATION_BACTERIENNE/Semaine3)
