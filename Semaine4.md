@@ -9,7 +9,5 @@
   Le graphique montre à présent une situation plus proche de ce que nous pouvons retrouver *in vivo*.
   
   Nous avons aussi amélioré la représentation des interactions avec une petite animation pas piquée des hannetons. Cette animation montre ces interactions "pas à pas". En bleu nous avons les Globules Bleu (bon ça aurait été drôle mais c'est bien les globules blancs qui sont en bleu), en rouge les bactéries et en gris les nutriments. 
-
-![vid](video1.mp4)
   
-<video src="video1.mp4" width="500" height="500" controls preload></video>
+<video src="video1.mp4" width="500" height="500" controls preload>Test</video>
