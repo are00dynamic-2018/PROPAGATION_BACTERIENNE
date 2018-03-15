@@ -12,3 +12,4 @@
 
 ![vid](video1.mp4)
   
+<video src="video1.mp4" width="500" height="500" controls preload></video>
