@@ -10,5 +10,5 @@
   
   Nous avons aussi amélioré la représentation des interactions avec une petite animation pas piquée des hannetons. Cette animation montre ces interactions "pas à pas". En bleu nous avons les Globules Bleu (bon ça aurait été drôle mais c'est bien les globules blancs qui sont en bleu), en rouge les bactéries et en gris les nutriments. 
 
-![vid](https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/video1.mp4?raw=true)
+![vid](video1.mp4)
   
