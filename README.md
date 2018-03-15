@@ -28,18 +28,19 @@ Que faire si on est aux extrémités ? On observe alors deux types de cas pour l
   
   
   
-Voici les différentes règles de survie des organismes :
-+ Si une cellule est vide : probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
-+ Si une cellule vide est entourée d'une certain nombre (variable : nb_gb_reproduction) de globule(s) blanc(s) : tranformation en un globule blanc 
+Voici les différentes règles de survie des organismes (version finale 15/03) :
++ Si une cellule est vide : elle possède une probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
  
-+ Si une bactérie est entourée d'un certain nombre (variable : nb_gb_nécessaires) globule(s) blanc(s) : décès de la bactérie.
-+ Si une bactérie est entourée d'un certain nombre (variable : nb_b_surpop) de bactérie(s) : décès de la bactérie.
++ Si une bactérie est entourée d'un certain nombre de globule(s) blanc(s) (variable : nb_gb_nécessaires) : décès de la bactérie.
++ Si une bactérie n'a pas au moins un nutriment depuis un nombre t de tours : décès de la bactérie. (variable : t_survie_b).
+  
++ A chaque tour, un nombre de globule(s) blanc(s) proportionnel au nombre de bactérie (variable : gb_par_bact) apparait sur une case vide adajacente à une bactérie.
++ Un globule blanc meurt par apopthose au bout d'un nombre t de tours. (variable : t_survie_gb).
 
-+ Si un globule blanc est entourée d'un certain nombre (variable : nb_b_nécessaires) bactérie(s) : décès du globule blanc.
-+ A chaque on fait apparaitre un nombre (nb_gb_apparition) de globule(s) blanc(s) aléatoirement sur une case vide. 
-+ Probabilité (proba_apoptose) que les globules blanc meurt : apparition d'une case vide
++ Si un nutriment est à proximité d'une bactérie (aucun globule blanc adjacent) : le nutriment devient une bactérie.
++ Un nutriment meurt au bout d'un nombre t de tours. (variable : t_survie_n).
 
-+ Si un nutriment est à proximité d'une bactérie : le nutriment devient une bactérie.
+
   
   
 ## Membres du groupe : ##
