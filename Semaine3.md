@@ -10,7 +10,7 @@ Nous avons donc effectué de nombreuses recherches (encore) mais c'est un sujet 
 
 En effet, nous avons remarqué que les globules blancs ne quittaient pas le milieu même lorsqu'il n'y avait plus de bactéries. Nous avons donc ajouté un "temps" au bout duquel les Globules Blancs quittent le milieu cellulaire si il n'y a pas de bactéries à côté d'eux (temps qui varie selon nos désirs) et un "temps" de survie des bactéries sans nutriment autour (pendant un temps que nous pouvons aussi modifier, j'adore le pouvoir). Pour modéliser ce "temps", nous avons dû créer une deuxième matrice qui compte le nombre de tour (ou de pas) pendant lesquels une bactérie n'est plus en présence de nutriments ou un leucocyte (l'autre petit nom des globules blancs) n'a plus de bactéries pour voisins.
 
-![img]https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/graphs3.png?raw=true
+![image](https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/graphs3.png?raw=true)
 
 
 
