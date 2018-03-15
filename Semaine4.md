@@ -8,6 +8,13 @@
   
   Le graphique montre à présent une situation plus proche de ce que nous pouvons retrouver *in vivo*.
   
-  Nous avons aussi amélioré la représentation des interactions avec une petite animation pas piquée des hannetons. Cette animation montre ces interactions "pas à pas". En bleu nous avons les Globules Bleu (bon ça aurait été drôle mais c'est bien les globules blancs qui sont en bleu), en rouge les bactéries et en gris les nutriments. 
+  Nous avons aussi amélioré la représentation des interactions avec une petite animation pas piquée des hannetons. Cette animation montre ces interactions "pas à pas". En bleu nous avons les Globules Bleus (bon ça aurait été drôle mais c'est bien les globules blancs qui sont en bleu), en rouge les bactéries et en gris les nutriments. 
   
 <video src="video1.mp4" width="500" height="500" controls preload>Test</video>
+
+Enfin notre projet avance doucement mais surement, l'équipe est toujours motivé et tout le monde cherche a faire de son mieux (Si,si, c'est vrai).Nous nous retrouverons donc la semaine prochaine pour un nouvel épisode!
+En attendant, prenez soin de vous et à la prochaine!
+La bise,
+
+RenardVicieux alias moi-même.
+  
