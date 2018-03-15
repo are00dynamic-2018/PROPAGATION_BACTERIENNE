@@ -1,4 +1,5 @@
 ## Compte rendu de la semaine 3 ##
+  
 Et... Bien le bonsoir la compagnie!! Tout va pour le mieux? La famille? Les amis? Le hamster? Et bien tant mieux! Nous on est ON FIRE! le projet avance à grands pas mais ne vendons pas la peau de l'ours, il nous reste énormément de travail.
 Que diriez-vous maintenant de jetter un oeil sur le résumé de cet avancement? Comme vous ne pouvez pas répondre (et que de toute façon votre avis nous intéresse à peu près autant que le cycle de reproduction des oursins), nous allons faire comme si vous étiez d'accord. Bien, on y va?
 
