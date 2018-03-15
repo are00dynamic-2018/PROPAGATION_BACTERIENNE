@@ -29,12 +29,12 @@ Que faire si on est aux extrémités ? On observe alors deux types de cas pour l
   
   
 Voici les différentes règles de survie des organismes (version finale 15/03) :
-+ Pour une cellule vide :
-++ Probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
+Pour une cellule vide :
++ Probabilité (proba_apparition_nutriments) de se transformer en un nutriment.
  
 + Pour une bactérie :
-++ Si entourée d'un certain nombre de globule(s) blanc(s) (variable : nb_gb_nécessaires) : décès de la bactérie.
-++ Mort, si abscence d'au moins un nutriment depuis un nombre t de tours (variable : t_survie_b).
+  + Si entourée d'un certain nombre de globule(s) blanc(s) (variable : nb_gb_nécessaires) : décès de la bactérie.
+  + Mort, si abscence d'au moins un nutriment depuis un nombre t de tours (variable : t_survie_b).
  
 + Pour un globule blanc :
 ++ A chaque tour, apparition (sur une case vide adajacente à une bactérie) un nombre de globule(s) blanc(s) proportionnel au nombre de bactérie (variable : gb_par_bact).
