@@ -13,7 +13,9 @@
 <video src="video1.mp4" width="500" height="500" controls preload>Test</video>
 
 Enfin notre projet avance doucement mais surement, l'équipe est toujours motivé et tout le monde cherche a faire de son mieux (Si,si, c'est vrai).Nous nous retrouverons donc la semaine prochaine pour un nouvel épisode!
+
 En attendant, prenez soin de vous et à la prochaine!
+
 La bise,
 
 RenardVicieux alias moi-même.
