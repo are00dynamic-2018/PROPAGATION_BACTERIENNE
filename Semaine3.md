@@ -7,12 +7,9 @@ Alors pour commencer, nous nous sommes rendu compte qu'il nous manquait beaucoup
 
 Nous avons donc effectué de nombreuses recherches (encore) mais c'est un sujet incroyablement compliqué (si si, je vous jure). Nous nous sommes rendu compte de ce manque de connaissances lorsqu'il a fallu répondre à des questions telles que "Combien de Globule blanc faut-il pour éliminer une bactérie?" ou encore "A partir de quand les Globules Blancs peuvent quitter le milieu?". Ces questions, au premier abord assez simples, nous on demandées (et nous demandent encore) de longues et minutieuses recherches sur l'immunité en général. Le principal problème est donc l'établissement des règles: au fur et a mesure des recherches, nos règles varient pour s'adapter à ce que nous venons de découvrir. Le problème étant, vous l'avez compris, que qui dit modification des règles dit modification du code.
 
-
-En effet, nous avons remarqué que les globules blancs ne quittaient pas le milieu même lorsqu'il n'y avait plus de bactéries. Nous avons donc ajouté un "temps" au bout duquel les Globules Blancs quittent le milieu cellulaire si il n'y a pas de bactéries à côté d'eux (temps qui varie selon nos désirs) et un "temps" de survie des bactéries sans nutriment autour (pendant un temps que nous pouvons aussi modifier, j'adore le pouvoir). Pour modéliser ce "temps", nous avons dû créer une deuxième matrice qui compte le nombre de tour (ou de pas) pendant lesquels une bactérie n'est plus en présence de nutriments ou un leucocyte (l'autre petit nom des globules blancs) n'a plus de bactéries pour voisins.
-
 ![image](https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/graphs3.png?raw=true)
 
-
+En effet, nous avons remarqué que les globules blancs ne quittaient pas le milieu même lorsqu'il n'y avait plus de bactéries. Nous avons donc ajouté un "temps" au bout duquel les Globules Blancs quittent le milieu cellulaire si il n'y a pas de bactéries à côté d'eux (temps qui varie selon nos désirs) et un "temps" de survie des bactéries sans nutriment autour (pendant un temps que nous pouvons aussi modifier, j'adore le pouvoir). Pour modéliser ce "temps", nous avons dû créer une deuxième matrice qui compte le nombre de tour (ou de pas) pendant lesquels une bactérie n'est plus en présence de nutriments ou un leucocyte (l'autre petit nom des globules blancs) n'a plus de bactéries pour voisins.
 
 Malgré tous ces petits incidents, je pense que nous sommes sur la bonne voie, ou du moins je l'espère. En tout cas la motivation est présente dans le groupe et ça, ça fait plaisir.
 Ce sera tout pour moi aujourd'hui, Bonne soirée, bon appétit ou que ne sais-je, et à la prochaine!
