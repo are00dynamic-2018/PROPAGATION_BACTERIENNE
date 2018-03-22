@@ -3,7 +3,7 @@
 Bonjour, Bonsoir, Bon après-midi à tous! C'est le grand retour de votre auteur préféré, j'ai nommé: moi-même. Aujourd'hui, début de la préparation pour l'oral.
 
 
-Nous avons commencé à faire un PowerPoint pour expliquer le projet ainsi que quelque base de biologie cellulaire parce qu'apparemment, certaines personnes ne font pas la différence entre des leucocytes polynucléaires basophiles et des granulocytes éosinophiles (même si j'ai du mal à concevoir qu'on ne puisse pas savoir un truc aussi évident). Enfin bref on a tenté d'amener des bases très rapides en biologie afin de comprendre la simulation et plus globalement, le projet. Evidemment, sur ce PowerPoint y sera aussi spécifié toute la partie informatique (en gros, comment a-t-on fait la modélisation, quels sont les paramètres que nous allons faire varier et une partie sur les problèmes que nous avons rencontré).
+Nous avons commencé à faire un PowerPoint pour expliquer le projet ainsi que quelque bases de biologie cellulaire parce qu'apparemment, certaines personnes ne font pas la différence entre des leucocytes polynucléaires basophiles et des granulocytes éosinophiles (même si j'ai du mal à concevoir qu'on ne puisse pas savoir un truc aussi évident). Enfin bref on a tenté d'amener des bases très rapides en biologie afin de comprendre la simulation et plus globalement, le projet. Evidemment, sur ce PowerPoint y sera aussi spécifié toute la partie informatique (en gros, comment a-t-on fait la modélisation, quels sont les paramètres que nous allons faire varier et une partie sur les problèmes que nous avons rencontré).
 
 ![img](https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/photo_pr%C3%A9sentation.png?raw=true)
 
