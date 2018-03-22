@@ -7,7 +7,7 @@ Nous avons commencé à faire un PowerPoint pour expliquer le projet ainsi que q
 
 ![img](https://github.com/are00dynamic-2018/PROPAGATION_BACTERIENNE/blob/master/photo_pr%C3%A9sentation.png?raw=true)
 
-Pour le début de cette présentation, le grand Nadir et moi-même avons commencé à renseigner la partie biologie, et Alexandre et Idriss ont pour leur part analysé tous les effets que pouvaient produire les modifications de différents paramètres sur le code. Une longue et minutieuse entreprise, ma foi. Nous avons de plus clarifié quelques règle et décidé la période immunitaire prise en compte dans cette magnifique simulation (si, si, elle est vraiment magnifique).
+Pour le début de cette présentation, le grand Nadir et moi-même avons commencé à renseigner la partie biologie, et Alexandre et Idriss ont pour leur part analysé tous les effets que pouvaient produire les modifications de différents paramètres sur le code. Une longue et minutieuse entreprise, ma foi. Nous avons de plus clarifié quelques règles et décidé la période immunitaire prise en compte dans cette magnifique simulation (si, si, elle est vraiment magnifique).
 
 
 C'est une longue journée de travail qui s'achève donc sur ce compte-rendu, et je pense que nous avons fait (encore une fois) du bon boulot.
