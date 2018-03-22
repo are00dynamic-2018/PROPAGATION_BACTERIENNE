@@ -10,7 +10,9 @@ Pour le début de cette présentation, le grand Nadir et moi même avons commenc
 
 
 C'est une longue journée de travail qui s'achève donc sur ce compte-rendu, et je pense que nous avons fait (encore une fois) du bon boulot.
+
 C'était RenardVicieux, en direct de la salle 302 de la tour 24-25.
+
 A la prochaine les amis!.
 
 PS: Si vous avez aimé, n'oubliez pas de liker et de partager!!
