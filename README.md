@@ -39,7 +39,7 @@ Voici les différentes règles de survie des organismes (version finale 15/03) :
   
 + Pour un globule blanc :
   + A chaque tour, apparition (sur une case vide adjacente à une bactérie) un nombre de globule(s) blanc(s) proportionnel au nombre de bactérie (variable : gb_par_bact).
-  + Mort par apopthose au bout d'un nombre t de tours (variable : t_survie_gb).
+  + Mort par apoptose au bout d'un nombre t de tours (variable : t_survie_gb).
   
 + Pour un nutriment :
   + Présence à proximité d'une bactérie (aucun globule blanc adjacent) : le nutriment devient une bactérie.
