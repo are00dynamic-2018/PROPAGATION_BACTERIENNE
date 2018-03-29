@@ -13,6 +13,6 @@ Dans le même temps, nous avons commencé l’écriture du rapport. Alma a fait 
 
 A la semaine prochaine, pour un ultime épisode !
 
-C’était encore une fois RenardVicieux, pour vous faire vivre notre aventure avec nous !
+C’était encore une fois RenardVicieux, pour vous faire vivre cette aventure avec nous !
 
 Bonne soirée !
