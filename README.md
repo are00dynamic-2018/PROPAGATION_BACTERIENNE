@@ -22,11 +22,7 @@ Nous simulons notre modélisation dans une matrice. Les cellules de cette matric
   
   
 Pour passer d'une étape à une autre on analyse le voisinage de chaque cellule de la matrice. Ce voisignage sera une “mini-matrice” de 3*3, soit les 8 nombres entourant d'une cellule.
-Que faire si on est aux extrémités ? On observe alors deux types de cas pour le voisinage :
-* Soit boite pétrie : milieu fini - ne pas prendre les voisins hors de la matrice.
-* Soit corps humain : milieu infini (sphère) - aux extrémitées prendre les voisins. 
-  
-  
+Pour l'étude de la modélisation on considère un milieu fini type boite de pétrie (ne pas prendre les voisins hors de la matrice).  
   
 Voici les différentes règles de survie des organismes (version finale 15/03) :  
   
