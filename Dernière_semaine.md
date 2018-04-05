@@ -1,4 +1,4 @@
 ## Compte rendu de l'ultime et dernière semaineaine ##
 
 
-FIN
+Voilà. On y est. C'est fini.
