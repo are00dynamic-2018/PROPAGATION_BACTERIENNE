@@ -1,4 +1,4 @@
-## Compte rendu de l'ultime et dernière semaineaine ##
+## Compte rendu de l'ultime et dernière semaine ##
 
 
 Voilà. On y est. C'est fini.
